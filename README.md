@@ -28,6 +28,7 @@ A *collected* list of Awesome projects, libraries and resources. Inspired by the
 - [latexmaker.py](https://gist.github.com/MengerSponge/629e48336a1e9101cd33047e22caad6a) - A python function to better match matplotlib figures to LaTeX formatting
 - [climlab](https://github.com/brian-rose/climlab) - "an open-source Python toolkit for interactive, process-oriented climate modelling."
 - [sea-py](http://pyoceans.github.io/sea-py/) - "A collaborative effort to organize and distribute Python tools for the Oceanographic Community."
+- [spectrum](https://github.com/cokelaer/spectrum) - "Tools to estimate Power Spectral Densities using methods based on Fourier transform, Parametric methods or eigenvalues analysis. JOSS Paper [here](https://joss.theoj.org/papers/10.21105/joss.00348)
 
 ## Textbooks
 
