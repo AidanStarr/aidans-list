@@ -19,7 +19,7 @@ A *collected* list of Awesome projects, libraries and resources. Inspired by the
 - [Beamer Tips](https://paulgp.github.io/beamer_tips.html) - A slide deck of very useful Beamer tips for effectively.
 - [tufte-latex](https://ctan.org/pkg/tufte-latex?lang=en) - LaTeX document classes inspired by the work of info-design deity [Edward Tufte](https://www.edwardtufte.com/tufte/), great for notes and academic ramblings. This forms the basis of my [go-to template for note-making](https://aidanstarr.github.io/m%20code/template.tex).
 - [preprint-template](https://github.com/brenhinkeller/preprint-template.tex) - "An information-dense, two-column LaTeX template designed for, e.g., EarthArXiv preprints" by [C. Brenhin Keller](https://github.com/brenhinkeller) modified from [arxiv-style](https://github.com/kourgeorge/arxiv-style).
-
+- [Pandoc Workflow blog](https://sylvaindeville.net/2015/07/17/writing-academic-papers-in-plain-text-with-markdown-and-jupyter-notebook/) - " workflow for writing academic papers involves Jupyter Notebook for data analysis and generating the figures, Markdown for writing the paper, and Pandoc for generating the final output"
 
 ## Python
 
